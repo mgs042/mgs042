@@ -1,4 +1,4 @@
-# <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" /> About Me:
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" /> # About Me:
 I am a 2024 BTech IT graduate from Cochin University of Science and Technology, passionate about cybersecurity, IoT, and software development.<br>I believe in learning and experimenting with new domains and technologies. I'm always eager to learn, build scalable and secure applications, and contribute to open-source projects.<br>I am committed to continuous growth, both as a professional and a collaborator. <br>Whether it's solving complex problems, working on innovative solutions, or staying updated with the latest tech trends, I strive to push boundaries. <br>Let's connect and collaborate on exciting projects that make an impact!
 
 
