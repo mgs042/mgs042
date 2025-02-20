@@ -58,7 +58,7 @@ I am a 2024 BTech IT graduate from Cochin University of Science and Technology, 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mgs042&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" height="200"><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mgs042&theme=great-gatsby&hide_border=false)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="500"><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mgs042&theme=great-gatsby&hide_border=false)&nbsp;&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="500"><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgs042&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ---
 [![](https://visitcount.itsvg.in/api?id=mgs042&icon=10&color=13)](https://visitcount.itsvg.in)
