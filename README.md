@@ -1,6 +1,8 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
+
 # About Me:
 I am a 2024 BTech IT graduate from Cochin University of Science and Technology, passionate about cybersecurity, IoT, and software development.<br>I believe in learning and experimenting with new domains and technologies. I'm always eager to learn, build scalable and secure applications, and contribute to open-source projects.<br>I am committed to continuous growth, both as a professional and a collaborator. <br>Whether it's solving complex problems, working on innovative solutions, or staying updated with the latest tech trends, I strive to push boundaries. <br>Let's connect and collaborate on exciting projects that make an impact!
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="800">
 
 
 ## 🌐 Socials:
